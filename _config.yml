@@ -28,7 +28,7 @@ permalink: /a/:slug
 favicon: "logo.png"
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
-theme: no-style-please
+# theme: no-style-please
 
 theme_config:
   appearance: "dark"
