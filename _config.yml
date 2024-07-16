@@ -1,0 +1,47 @@
+title: skill issue
+banner: |-
+  .▄▄ ·▄ •▄▪ ▄▄▌ ▄▄▌   
+  ▐█ ▀.█▌▄▌████• ██•   
+  ▄▀▀▀█▐▀▀▄▐███▪ ██▪   
+  ▐█▄▪▐▐█.█▐█▐█▌▐▐█▌▐▌ 
+  ▪▀.▄▄··.▄▄▀·▄•▀▄▄▄▄ .
+  ██▐█ ▀.▐█ ▀.█▪██▀▄.▀·
+  ▐█▄▀▀▀█▄▀▀▀██▌▐█▐▀▀▪▄
+  ▐█▐█▄▪▐▐█▄▪▐▐█▄█▐█▄▄▌
+  ▀▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀▀ 
+
+author: Skill Issue
+email: contact@skill-issue.org
+url: https://skill-issue.org
+baseurl: ""
+description: >
+  Join us every week as we catch you on latest news,
+  talk about trending topics,
+  take part in HTB,
+  practice on new methods,
+  reversing advisory PoCs,
+  do group problem solving, programming, hacking,
+  and talk about all things infosec that are NOT sucks!
+
+permalink: /a/:slug
+
+favicon: "logo.png"
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+
+theme: no-style-please
+
+theme_config:
+  appearance: "dark"
+  back_home_text: "../"
+  date_format: "%Y-%m-%d"
+  show_description: true
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - _posts.bak/
