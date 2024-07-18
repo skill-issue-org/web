@@ -18,9 +18,9 @@ entries:
   # - title: archives
   #   url: '/archives'
 
+  - title: challenges
+    url: '/challenges'
   - title: radio (soon!)
-    url: '#'
-  - title: challenges (soon!)
     url: '#'
   - title: rss
     url: feed.xml
