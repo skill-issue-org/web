@@ -7,7 +7,7 @@ We're bringing you weekly CTF challenges to help you sharpen your skills from th
 
 Every week, we'll post a new challenge in the **#weekly-challenges** channel. These challenges will *(probably)* change every week, but sometimes we might extend the retirement date to give you a bit more time to crack them, but generally, expect a fresh challenge each week to keep things interesting.
 
-Here's what we have in mind: New challenges will be posted every Monday and retired on Friday. On Sunday evening, we'll have a discussion on how to solve the challenge. We strongly encourage you to share your write-ups on the `#forum` *(tags: ctf)*. We'll select the best articles to highlight and discuss further.
+Here's what we have in mind: New challenges will be posted every Monday and retired on Friday at 23:59:59 (GMT+7). On Sunday evening, we'll have a discussion on how to solve the challenge. We strongly encourage you to share your write-ups on the `#forum` *(tags: ctf)*. We'll select the best articles to highlight and discuss further.
 
 To submit a flag, simply use the slash command `/submit` on the Discord server. If you encounter any error messages, just ignore them and try submitting again. Persistence is key!
 
