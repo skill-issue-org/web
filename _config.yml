@@ -30,6 +30,13 @@ favicon: "logo.png"
 
 # theme: no-style-please
 
+kramdown:
+  syntax_highlighter: rouge
+  # syntax_highlighter: coderay
+  # syntax_highlighter_opts:
+  #   line_numbers: table
+  #   bold_every: 5
+
 theme_config:
   appearance: "dark"
   back_home_text: "../"
