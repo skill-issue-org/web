@@ -2,3 +2,14 @@
 ---
 
 @import "no-style-please";
+
+h2, h3, h4, h5, h6 {
+  margin-top: 0px !important;
+}
+
+pre.highlight > code {
+  color: black !important;
+  background: white !important;
+  border-style: dotted;
+  border-width: 1px;
+}
