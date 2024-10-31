@@ -8,6 +8,8 @@ entries:
         url: /about
       - title: discord
         url: https://d.skill-issue.org
+      - title: shop
+        url: https://shop.skill-issue.org
 
   - title: archives
     post_list:
