@@ -11,13 +11,33 @@ body {
   padding: 0;
 }
 
+blockquote {
+  border-style: dashed;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 800;
+}
+
 h2, h3, h4, h5, h6 {
   margin-top: 0px;
+  text-transform: uppercase;
 }
 
 code {
   color: black;
   background: #00ffff;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 16px;
+  line-height: 1.20rem;
 }
 
 pre.highlight > code {
@@ -25,4 +45,13 @@ pre.highlight > code {
   background: white;
   border-style: dotted;
   border-width: 1px;
+}
+
+li {
+  padding: 0;
+  margin: 0;
+}
+
+.w {
+  padding: 1rem;
 }
